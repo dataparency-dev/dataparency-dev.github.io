@@ -1,15 +1,13 @@
 ## Welcome to Dataparency Developer's Pages
 
-You can use the [editor on GitHub](https://github.com/dataparency/dataparency.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Dataparency's data model?
 
-### Markdown
+Dataparency runs from a database that is Entity-Bound, Entity-Controlled. Data is retrieved by calling its REST API with the syntax below:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+https://localhost:8031/myCluster/pods/pod
 
 # Header 1
 ## Header 2
