@@ -1,4 +1,4 @@
-## Welcome to Dataparency Developer's Pages
+## Welcome to Dataparency Developer Pages
 
 
 ### What is Dataparency's data model?
