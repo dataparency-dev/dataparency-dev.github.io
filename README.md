@@ -7,7 +7,7 @@ Dataparency runs from a database that is Entity-Bound, Entity-Controlled. Data i
 
 
 ```markdown
-https://host:port/domain/entity-class/entity-id/collection
+GET https://host:port/domain/entity-class/entity-id/collection
 ```
 # Header 1
 ## Header 2
