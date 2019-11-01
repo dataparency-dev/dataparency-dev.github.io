@@ -743,7 +743,7 @@ h6 span.fa {
 .hero {
     position: relative;
     padding: 96px 30px 138px;
-    background: url(../img/hero/hero-bg.svg?1528322191) bottom no-repeat;
+    background: url(/img/3.jpg) bottom no-repeat;
     background-size: cover;
     z-index: 10
 }
