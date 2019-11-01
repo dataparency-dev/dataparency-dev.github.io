@@ -8,7 +8,7 @@
     <script defer src="/js/all.js"></script>
   </head>
   <body>
-    <div ><div>
+    <div class="head" ><div>
       <h2>Dataparency</h2>
       <ul id="menusimple" class="menusimple menumain" onclick="mobileMenuHover(event);" ontouchstart="mobileMenuHover(event);">
         <li><a class="is-expand">Introduction</a>
@@ -38,9 +38,18 @@
         <li><a href="/en/faq">FAQ</a></li>
       </ul>
     </div>
-    <section class="content">
-      {{ content }}
-    </section>
+      <div class="body">
+
+
+        <div class="breadcrumbs">
+          <div class="container">
+
+          </div>
+        </div>
+
+        <div id="content" class="content">
+          {{ content }}
+        </div>
     <div>
     <footer style="background:darkgray;width:100%">
       <div class="container">
