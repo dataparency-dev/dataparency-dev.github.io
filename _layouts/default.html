@@ -8,7 +8,8 @@
     <script defer src="/js/all.js"></script>
   </head>
   <body>
-    <div class="head" ><div>
+    <div class="head" >
+      <div>
       <h2>Dataparency</h2>
       <ul id="menusimple" class="menusimple menumain" onclick="mobileMenuHover(event);" ontouchstart="mobileMenuHover(event);">
         <li><a class="is-expand">Introduction</a>
@@ -38,20 +39,18 @@
         <li><a href="/en/faq">FAQ</a></li>
       </ul>
     </div>
-      <div class="body">
+    </div>
+    <div class="body">
+      <div class="breadcrumbs">
+        <div class="container">
 
-
-        <div class="breadcrumbs">
-          <div class="container">
-
-          </div>
         </div>
-
-        <section id="content" class="content">
-      {{ content }}
-    </section>
       </div>
-    <div>
+
+      <section id="content" class="content">
+      {{ content }}
+      </section>
+    </div>
     <footer style="background:darkgray;width:100%">
       <div class="container">
         <p class="footer-title">&copy; 2019 Dataparency, LLC. Patent-pending</p><p><b>Dataparency, Dataparency Information Sharing Platform</b>,
@@ -127,7 +126,5 @@
         </div>
       </div>
     </footer>
-    </div>
-    </div>
   </body>
 </html>
