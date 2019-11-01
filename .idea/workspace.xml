@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a43abc-541e-4843-88d2-6a3dfa9c2bec" name="Default Changelist" comment="" />
+    <list default="true" id="e0a43abc-541e-4843-88d2-6a3dfa9c2bec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/en/disp-for-business.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/disp-for-businesses.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572448451121</updated>
       <workItem from="1572448452769" duration="20788000" />
+      <workItem from="1572568666002" duration="304000" />
     </task>
     <servers />
   </component>
@@ -62,7 +72,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
