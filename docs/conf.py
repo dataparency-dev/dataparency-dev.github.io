@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DataParency'
-copyright = '2019, TS'
-author = 'TS'
+project = 'Dataparency'
+copyright = 'Dataparency, LLC'
+author = 'Dataparency.com'
 
 
 # -- General configuration ---------------------------------------------------
