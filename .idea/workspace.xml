@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a43abc-541e-4843-88d2-6a3dfa9c2bec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/alabaster.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css/badge_only.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/pygments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-min.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/none.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +76,7 @@
       <workItem from="1572877819626" duration="1614000" />
       <workItem from="1572897455131" duration="2181000" />
       <workItem from="1572978831614" duration="7000" />
-      <workItem from="1572997005118" duration="8024000" />
+      <workItem from="1572997005118" duration="8544000" />
     </task>
     <servers />
   </component>
