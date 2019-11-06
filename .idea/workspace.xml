@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a43abc-541e-4843-88d2-6a3dfa9c2bec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/en/documentation/contributed/API's.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/contributed/API's.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/documentation/contributed/Entity Creation.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/contributed/Entity Creation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/documentation/contributed/Glossary.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/contributed/Glossary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/documentation/contributed/Help.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/contributed/Help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/documentation/contributed/Setup.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/contributed/Setup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/doctools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/documentation_options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/language_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modernizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/searchtools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/underscore-1.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/underscore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/documentation/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +40,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\js" />
       <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\css" />
       <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\en\documentation" />
       <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\_static" />
       <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\en" />
-      <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tim\Documents\GitHub\dataparency.github.io" />
@@ -79,7 +85,7 @@
       <workItem from="1572877819626" duration="1614000" />
       <workItem from="1572897455131" duration="2181000" />
       <workItem from="1572978831614" duration="7000" />
-      <workItem from="1572997005118" duration="14160000" />
+      <workItem from="1572997005118" duration="14666000" />
     </task>
     <servers />
   </component>
