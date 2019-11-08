@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a43abc-541e-4843-88d2-6a3dfa9c2bec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Inconsolata-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inconsolata-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inconsolata.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoSlab/roboto-slab-v7-regular.woff2" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +82,7 @@
       <workItem from="1572877819626" duration="1614000" />
       <workItem from="1572897455131" duration="2181000" />
       <workItem from="1572978831614" duration="7000" />
-      <workItem from="1572997005118" duration="24420000" />
+      <workItem from="1572997005118" duration="24935000" />
     </task>
     <servers />
   </component>
