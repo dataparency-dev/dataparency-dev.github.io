@@ -86,7 +86,11 @@
 <li class="toctree-l1"><a class="reference internal" href="Help.html">Help</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Glossary</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#entity">Entity</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#data">Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#document">Document</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#relationship">Relationship</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#edid">EDID</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#rdid">RDID</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#path">Path</a></li>
 </ul>
 </li>
 </ul>
@@ -156,12 +160,29 @@
   <div class="section" id="glossary">
 <h1>Glossary<a class="headerlink" href="#glossary" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="entity">
-<h2>Entity<a class="headerlink" href="#entity" title="Permalink to this headline">¶</a></h2>
+<span id="id1"></span><h2>Entity<a class="headerlink" href="#entity" title="Permalink to this headline">¶</a></h2>
 <p>blah blah blah</p>
 </div>
-<div class="section" id="data">
-<h2>Data<a class="headerlink" href="#data" title="Permalink to this headline">¶</a></h2>
-<p>blah blah blah</p>
+<div class="section" id="document">
+<span id="id2"></span><h2>Document<a class="headerlink" href="#document" title="Permalink to this headline">¶</a></h2>
+<p>Any <a class="reference external" href="https://www.json.org/">JSON</a>-compatible text data with a single name value. The value of the single name can be a complex structure, e.g. object or array, or a simple structure, e.g. string. The value can be whatever <a class="reference external" href="https://www.json.org/">JSON</a> supports. The value can contain other name values in a hierarchy as supported by <a class="reference external" href="https://www.json.org/">JSON</a>. The single name value as a base structure is a constraint on the <a class="reference external" href="https://www.json.org/">JSON</a> structure by the Dataparency server.</p>
+</div>
+<div class="section" id="relationship">
+<h2>Relationship<a class="headerlink" href="#relationship" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="edid">
+<h2>EDID<a class="headerlink" href="#edid" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="rdid">
+<h2>RDID<a class="headerlink" href="#rdid" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="path">
+<h2>Path<a class="headerlink" href="#path" title="Permalink to this headline">¶</a></h2>
+<p>A 3 level hierarchy of names organizing a collection of <a class="reference internal" href="#document">documents</a> for an <a class="reference internal" href="#entity">entity</a> described as</p>
+<blockquote>
+<div><p>&lt;level 1&gt;/&lt;level 2&gt;/&lt;level 3&gt;.</p>
+</div></blockquote>
+<p>The path is specificed and set when the consumer of Dataparency API attaches a <a class="reference internal" href="#document">document</a> to an <a class="reference internal" href="#entity">entity</a>.</p>
 </div>
 </div>
 

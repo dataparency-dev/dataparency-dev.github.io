@@ -1,14 +1,44 @@
 Glossary
 ========
 
+.. _entity:
 
 Entity
 ------
 
 blah blah blah
 
-Data
+.. _document:
+
+Document
+--------
+
+Any JSON_-compatible text data with a single name value. The value of the single name can be a complex structure, e.g. object or array, or a simple structure, e.g. string. The value can be whatever JSON_ supports. The value can contain other name values in a hierarchy as supported by JSON_. The single name value as a base structure is a constraint on the JSON_ structure by the Dataparency server. 
+
+.. _JSON: https://www.json.org/ 
+
+Relationship
+------------
+
+
+
+EDID
 ----
 
-blah blah blah   
 
+
+RDID
+----
+
+
+
+Path
+----
+
+A 3 level hierarchy of names organizing a collection of `documents`__ for an entity_ described as
+ 
+	<level 1>/<level 2>/<level 3>. 
+	
+The path is specified and set when the consumer of Dataparency API attaches a document_ to an entity_. 
+
+__ document_
