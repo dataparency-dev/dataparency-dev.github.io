@@ -2,7 +2,7 @@
 
 
 
-![GitHub Logo](/examples/DataparencyLogoDarkBlue.png)
+![GitHub Logo](../examples/DataparencyLogoDarkBlue.png)
 
 
 Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL database providing access control, security, and a 'schema agnostic' data model. 
@@ -12,9 +12,6 @@ It is appropriate for use cases where privacy and security are an essential need
 Reference the whitepaper for further details.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dataparency/dataparency.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
