@@ -1,30 +1,17 @@
 ## Welcome to Dataparency Developer Pages
 
 
-### What is Dataparency's data model?
 
-Dataparency runs from a database that is Entity-Bound, Entity-Controlled. Data is retrieved by calling its REST API with the syntax below:
+![GitHub Logo](/DataparencyLogoDarkBlue.png)
 
+# Dataparency D-ISP&trade; Examples
 
-```markdown
-GET https://host:port/domain/entity-class/entity-id/collection</doc-id>?query-params
-```
-# Header 1
-## Header 2
-### Header 3
+Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL database providing access control, security, and a 'schema agnostic' data model. 
 
-- Bulleted
-- List
+It is highly scalable as data can be sharded by entity. Combined with FaaS like AWS Lambda, it can support thousands to millions of accesses per second. 
+It is appropriate for use cases where privacy and security are an essential need.
+Reference the whitepaper for further details.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
