@@ -2,9 +2,8 @@
 
 
 
-![GitHub Logo](/DataparencyLogoDarkBlue.png)
+![GitHub Logo](/examples/DataparencyLogoDarkBlue.png)
 
-# Dataparency D-ISP&trade; Examples
 
 Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL database providing access control, security, and a 'schema agnostic' data model. 
 
