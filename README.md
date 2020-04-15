@@ -1,6 +1,7 @@
 
 ![GitHub Logo](DataparencyLogoDarkBlue.png)
 ## Welcome to Dataparency Developer Pages
+[Website](https://dataparency-dev.github.io/)
 
 Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL database providing access control, security, and a 'schema agnostic' data model. 
 
