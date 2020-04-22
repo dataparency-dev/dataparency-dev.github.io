@@ -1,35 +1,13 @@
+
+![GitHub Logo](DataparencyLogoDarkBlue.png)
 ## Welcome to Dataparency Developer Pages
+[Website](https://dataparency-dev.github.io/)
 
+Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL database providing access control, security, and a 'schema agnostic' data model. 
 
-### What is Dataparency's data model?
+It is highly scalable as data can be sharded by entity. Combined with FaaS like AWS Lambda, it can support thousands to millions of accesses per second. 
+It is appropriate for use cases where privacy and security are an essential need.
+Reference the whitepaper for further details.
 
-Dataparency runs from a database that is Entity-Bound, Entity-Controlled. Data is retrieved by calling its REST API with the syntax below:
+&copy; Copyright 2020 Dataparency, LLC. All rights reserved. D-ISP&trade; and Dataparency Information Sharing Platform&trade; are trademarks of Dataparency, LLC
 
-
-```markdown
-GET https://host:port/domain/entity-class/entity-id/collection</doc-id>?query-params
-```
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dataparency/dataparency.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
