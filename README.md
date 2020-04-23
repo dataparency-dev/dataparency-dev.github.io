@@ -9,5 +9,5 @@ It is highly scalable as data can be sharded by entity. Combined with FaaS like 
 It is appropriate for use cases where privacy and security are an essential need.
 Reference the whitepaper for further details.
 
-&copy; Copyright 2020 Dataparency, LLC. All rights reserved. D-ISP&trade; and Dataparency Information Sharing Platform&trade; are trademarks of Dataparency, LLC
+&copy; Copyright 2020 Dataparency, LLC. All rights reserved. Dataparency&trade;, Dataparency Information Sharing Platform&trade; and D-ISP&trade; are trademarks of Dataparency, LLC
 
