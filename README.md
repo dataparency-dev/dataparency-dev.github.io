@@ -1,7 +1,7 @@
 
 ![GitHub Logo](DataparencyLogoDarkBlue.png)
 ## Welcome to Dataparency Developer Pages
-[Website](https://dataparency-dev.github.io/)
+[Website](https://dataparency-dev.github.io/dev)
 
 Dataparency's Distributed Data Network / Information Sharing Platform&trade; is an Entity-centric, Entity-bound, and Entity-controlled NoSQL distributed database providing access control, security, and a 'schema-agnostic' data model. 
 
